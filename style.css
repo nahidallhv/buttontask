@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: cadetblue;
+}
+#btn{
+    color: rgb(85, 0, 255);
+    background-color: rgb(13, 13, 13);
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    font-size: 30px;
+    border-color: brown;
+    border-radius: 15px;
+ 
+}
